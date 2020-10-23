@@ -1,6 +1,7 @@
 # ZB.COM-exchange
 
 The ZB.com trade gives cryptographic money trade administrations to both cryptos to fiat and crypto to crypto exchanging sets. Since its dispatch in 2017, ZB.com has climbed the positions of cryptographic money trades by volume and is presently positioned among the Top 20 digital currency trades by volume. 
+
 <a href="https://coinpedia.org/exchange/zb-com/">ZB.COM Exchange</A> is a cryptographic money based trade stage that is situated in China. The trade central command have been moved to Hong Kong. The trade essentially benefits Chinese and Asian financial specialists and brokers however acknowledges dealers from all around the globe. 
 The site is accessible in both English and Mandarin. ZB.COM likewise has its activities in Bangkok, Dubai, South Korea, and Switzerland.
 
